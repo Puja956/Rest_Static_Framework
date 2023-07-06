@@ -1,5 +1,5 @@
 # Rest_Static_Framework
-Line 1 : Describe your project
+Line 1 :Project Description
 e.g :This project is created to automate all types of APIs (SOAP & REST)primarily using restAssured,ApachePOI,TestNG & JsonPATH for details please read the file “ReadMe”
 Line 2 : Features of your project
            1) This project is capable to automate execution and validation :
